@@ -1,73 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=180&section=header&text=gabbyygab&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=building%20things%20that%20run&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1117,45:059669,100:10b981&height=200&section=header&text=John%20Gabriel%20Delicana&fontSize=44&fontColor=e8f5ee&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full-Stack%20Developer&descAlignY=56&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=64A1F4&center=true&vCenter=true&width=650&lines=Full-stack+developer;Java+%7C+Python+%7C+JavaScript+%7C+Kotlin;Django+%E2%80%A2+PHP+%E2%80%A2+SQL;always+shipping" alt="typing" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=gabbyygab&style=flat-square&color=64a1f4&label=PROFILE+VIEWS" alt="views" />
-
-</div>
-
----
-
-## ▸ About
-
-```yaml
-name:      gabbyygab
-role:      Full-stack developer
-focus:     [ backend systems, web apps, mobile ]
-currently: learning something new, as usual
-reach_me:  see profile links
-```
-
----
-
-## ▸ Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## ▸ Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabbyygab&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64A1F4&icon_color=8DBDFF" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbyygab&layout=compact&langs_count=9&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64A1F4" alt="top languages" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=900&color=10B981&center=true&vCenter=true&width=680&lines=Building+modern+web+experiences;with+passion+and+precision." alt="Building modern web experiences with passion and precision." />
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=gabbyygab&theme=tokyonight&hide_border=true&background=0D1117&ring=64A1F4&fire=FF6B9D&currStreakLabel=64A1F4" alt="streak" />
+<a href="https://gabriel-d-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10b981?style=flat-square&logo=vercel&logoColor=0c1117" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/gabriel-delicana-682ba8355/"><img src="https://img.shields.io/badge/LinkedIn-161d27?style=flat-square&logo=linkedin&logoColor=10b981" alt="LinkedIn" /></a>
+<a href="mailto:delicanagabriel1212@gmail.com"><img src="https://img.shields.io/badge/Email-161d27?style=flat-square&logo=gmail&logoColor=10b981" alt="Email" /></a>
+
+</div>
+
+<br/>
+
+## About
+
+> *Aspiring web developer with a passion for building clean, functional digital experiences.*
+
+Proficient in **React**, **Next.js**, **PHP**, **Java**, **Firebase** and modern web technologies.
+Aspiring to join a development team and grow as a professional Full-Stack Developer.
+
+<br/>
+
+## Skills
+
+<sub>*A comprehensive overview of my technical expertise and proficiencies*</sub>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-161d27?style=for-the-badge&logo=openjdk&logoColor=10b981)
+![Kotlin](https://img.shields.io/badge/Kotlin-161d27?style=for-the-badge&logo=kotlin&logoColor=10b981)
+![Python](https://img.shields.io/badge/Python-161d27?style=for-the-badge&logo=python&logoColor=10b981)
+![JavaScript](https://img.shields.io/badge/JavaScript-161d27?style=for-the-badge&logo=javascript&logoColor=10b981)
+![PHP](https://img.shields.io/badge/PHP-161d27?style=for-the-badge&logo=php&logoColor=10b981)
+
+![React](https://img.shields.io/badge/React-161d27?style=for-the-badge&logo=react&logoColor=10b981)
+![Next.js](https://img.shields.io/badge/Next.js-161d27?style=for-the-badge&logo=nextdotjs&logoColor=10b981)
+![Django](https://img.shields.io/badge/Django-161d27?style=for-the-badge&logo=django&logoColor=10b981)
+![HTML5](https://img.shields.io/badge/HTML5-161d27?style=for-the-badge&logo=html5&logoColor=10b981)
+![CSS3](https://img.shields.io/badge/CSS3-161d27?style=for-the-badge&logo=css3&logoColor=10b981)
+
+![Firebase](https://img.shields.io/badge/Firebase-161d27?style=for-the-badge&logo=firebase&logoColor=10b981)
+![SQL](https://img.shields.io/badge/SQL-161d27?style=for-the-badge&logo=mysql&logoColor=10b981)
+![Git](https://img.shields.io/badge/Git-161d27?style=for-the-badge&logo=git&logoColor=10b981)
+
+</div>
+
+<br/>
+
+## Projects
+
+<sub>*Real-world applications built with modern technologies*</sub>
+
+<div align="center">
+
+<a href="https://github.com/gabbyygab"><img src="https://img.shields.io/badge/Enterprise%20Resource%20Planning%20System-161d27?style=for-the-badge&labelColor=10b981&color=161d27" /></a>
+<a href="https://github.com/gabbyygab"><img src="https://img.shields.io/badge/Online%20Platform%20Management%20System-161d27?style=for-the-badge&labelColor=10b981&color=161d27" /></a>
+<a href="https://github.com/gabbyygab"><img src="https://img.shields.io/badge/University%20Student%20Handbook%20App-161d27?style=for-the-badge&labelColor=10b981&color=161d27" /></a>
+
+</div>
+
+<br/>
+
+## Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-agzq.vercel.app/api?username=gabbyygab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0C1117&title_color=10B981&text_color=A8C4B5&icon_color=10B981&ring_color=10B981" alt="stats" />
+<img height="170" src="https://github-readme-stats-agzq.vercel.app/api/top-langs/?username=gabbyygab&layout=compact&langs_count=9&hide_border=true&bg_color=0C1117&title_color=10B981&text_color=A8C4B5" alt="top languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabbyygab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64A1F4&line=8DBDFF&point=FF6B9D&area=true&area_color=1B2A4A" width="100%" alt="activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabbyygab&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+<img height="170" src="https://streak-stats.demolab.com?user=gabbyygab&hide_border=true&background=0C1117&border=161D27&stroke=161D27&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=A8C4B5&currStreakNum=E8F5EE&sideNums=E8F5EE&dates=8FA89E" alt="streak" />
 
 </div>
 
----
+<br/>
 
-## ▸ Contribution Snake
+## Contributions
 
 <div align="center">
 
@@ -82,10 +93,20 @@ reach_me:  see profile links
 
 </div>
 
----
+<br/>
+
+## Education
+
+<sub>*A foundation built through years of dedicated study and academic growth*</sub>
+
+**Notre Christi Academy of the Philippines**
+
+> *"Education is the passport to the future, for tomorrow belongs to those who prepare for it today."*
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2c5364,100:0f2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,55:059669,100:0c1117&height=130&section=footer" width="100%" />
 
 </div>
